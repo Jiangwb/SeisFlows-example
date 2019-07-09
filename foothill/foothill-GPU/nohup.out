@@ -1,0 +1,3488 @@
+Generating data
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+
+Starting iteration 1
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalgrad/model
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalgrad/gradient_nomask
+kernels defaultdict(<function <lambda> at 0x2abacb4d90c8>, {'mu': [array([  4.15646313e-03,   8.99169455e-03,   1.92090508e-02, ...,
+         3.86341706e+01,   3.68814835e+01,   3.56275676e+01])], 'kappa': [array([  0.03275496,   0.0382923 ,   0.04957413, ...,  26.33547188,
+        24.95249922,  23.91378654])]})
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalgrad/gradient
+kernels defaultdict(<function <lambda> at 0x2abacb4bad70>, {'mu': [array([  4.15646313e-03,   8.99169455e-03,   1.92090508e-02, ...,
+         3.86341706e+01,   3.68814835e+01,   3.56275676e+01])], 'kappa': [array([-0.01091832, -0.0127641 , -0.01652471, ..., -8.77849167,
+       -8.31750073, -7.97126313])]})
+Computing search direction
+Computing step length
+ trial step 1
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalfunc/model
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+ trial step 2
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalfunc/model
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+ trial step 3
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalfunc/model
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/output/model_0001
+
+Starting iteration 2
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalgrad/model
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalgrad/gradient_nomask
+kernels defaultdict(<function <lambda> at 0x2abacb4d9938>, {'mu': [array([ -0.04673918,  -0.04197982,  -0.03091438, ...,  11.79175148,
+        11.22747651,  10.81366433])], 'kappa': [array([ -2.02529934e-02,  -1.59952096e-02,  -6.65252008e-03, ...,
+         7.51543413e+00,   6.82984797e+00,   6.40238166e+00])]})
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalgrad/gradient
+kernels defaultdict(<function <lambda> at 0x2abacb4d9938>, {'mu': [array([ -0.04673918,  -0.04197982,  -0.03091438, ...,  11.79175148,
+        11.22747651,  10.81366433])], 'kappa': [array([  6.75099861e-03,   5.33173716e-03,   2.21750696e-03, ...,
+        -2.50514501e+00,  -2.27661626e+00,  -2.13412748e+00])]})
+Computing search direction
+Computing step length
+ trial step 1
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalfunc/model
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/output/model_0002
+
+Starting iteration 3
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalgrad/model
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalgrad/gradient_nomask
+kernels defaultdict(<function <lambda> at 0x2abacb4e4ed8>, {'mu': [array([-0.05829889, -0.05402363, -0.04386565, ..., -2.69663742,
+       -2.93101665, -3.06157502])], 'kappa': [array([-0.03571331, -0.03190628, -0.02341608, ..., -2.7604386 ,
+       -3.16596081, -3.32081852])]})
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalgrad/gradient
+kernels defaultdict(<function <lambda> at 0x2abacb4e4ed8>, {'mu': [array([-0.05829889, -0.05402363, -0.04386565, ..., -2.69663742,
+       -2.93101665, -3.06157502])], 'kappa': [array([ 0.01190444,  0.01063543,  0.00780536, ...,  0.92014631,
+        1.05532039,  1.10693964])]})
+Computing search direction
+Computing step length
+ trial step 1
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalfunc/model
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/output/model_0003
+
+Starting iteration 4
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalgrad/model
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalgrad/gradient_nomask
+kernels defaultdict(<function <lambda> at 0x2abacb4d9e60>, {'mu': [array([ -0.05420886,  -0.05066631,  -0.04222383, ..., -12.60831899,
+       -12.64706531, -12.59691468])], 'kappa': [array([-0.03441585, -0.0303292 , -0.02140653, ..., -9.4516462 ,
+       -9.62471726, -9.58188398])]})
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalgrad/gradient
+kernels defaultdict(<function <lambda> at 0x2abacb4d9e60>, {'mu': [array([ -0.05420886,  -0.05066631,  -0.04222383, ..., -12.60831899,
+       -12.64706531, -12.59691468])], 'kappa': [array([ 0.01147195,  0.01010973,  0.00713551, ...,  3.15054911,
+        3.20823947,  3.19396171])]})
+Computing search direction
+Computing step length
+ trial step 1
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalfunc/model
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/output/model_0004
+
+Starting iteration 5
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalgrad/model
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalgrad/gradient_nomask
+kernels defaultdict(<function <lambda> at 0x2abacb4ed0c8>, {'mu': [array([-0.0375371 , -0.03482429, -0.02865098, ..., -7.92206098,
+       -7.99355088, -7.97808221])], 'kappa': [array([-0.02075609, -0.01605876, -0.00601493, ..., -5.75145277,
+       -5.84214231, -5.8105902 ])]})
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalgrad/gradient
+kernels defaultdict(<function <lambda> at 0x2abacb4ed0c8>, {'mu': [array([-0.0375371 , -0.03482429, -0.02865098, ..., -7.92206098,
+       -7.99355088, -7.97808221])], 'kappa': [array([ 0.0069187 ,  0.00535292,  0.00200498, ...,  1.91715115,
+        1.947381  ,  1.93686363])]})
+Computing search direction
+Computing step length
+ trial step 1
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalfunc/model
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/output/model_0005
+
+Starting iteration 6
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalgrad/model
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalgrad/gradient_nomask
+kernels defaultdict(<function <lambda> at 0x2abacb4ec140>, {'mu': [array([-0.03276996, -0.03001215, -0.02387507, ..., -3.11297914,
+       -3.24477208, -3.28239294])], 'kappa': [array([ -1.68991745e-02,  -1.21010233e-02,  -1.90948638e-03, ...,
+        -2.14665238e+00,  -2.16820224e+00,  -2.15335937e+00])]})
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalgrad/gradient
+kernels defaultdict(<function <lambda> at 0x2abacb4ec140>, {'mu': [array([-0.03276996, -0.03001215, -0.02387507, ..., -3.11297914,
+       -3.24477208, -3.28239294])], 'kappa': [array([  5.63305885e-03,   4.03367491e-03,   6.36495535e-04, ...,
+         7.15550878e-01,   7.22734166e-01,   7.17786541e-01])]})
+Computing search direction
+Computing step length
+ trial step 1
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalfunc/model
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/output/model_0006
+
+Starting iteration 7
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalgrad/model
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalgrad/gradient_nomask
+kernels defaultdict(<function <lambda> at 0x2abacb4d9aa0>, {'mu': [array([-0.03518598, -0.03213078, -0.02536752, ..., -0.22701459,
+       -0.3918839 , -0.4581651 ])], 'kappa': [array([-0.02047976, -0.01589947, -0.0060848 , ..., -0.03864776,
+       -0.00289604,  0.00970614])]})
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalgrad/gradient
+kernels defaultdict(<function <lambda> at 0x2abacb4d9aa0>, {'mu': [array([-0.03518598, -0.03213078, -0.02536752, ..., -0.22701459,
+       -0.3918839 , -0.4581651 ])], 'kappa': [array([ 0.00682659,  0.00529982,  0.00202827, ...,  0.01288259,
+        0.00096535, -0.00323538])]})
+Computing search direction
+Computing step length
+ trial step 1
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalfunc/model
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/output/model_0007
+
+Starting iteration 8
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalgrad/model
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalgrad/gradient_nomask
+kernels defaultdict(<function <lambda> at 0x2abacb4d9500>, {'mu': [array([-0.04380161, -0.04001948, -0.03155687, ...,  3.44496637,
+        3.18287443,  3.04222954])], 'kappa': [array([-0.03004143, -0.02551435, -0.01570599, ...,  2.24685299,
+        2.25365153,  2.22257033])]})
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalgrad/gradient
+kernels defaultdict(<function <lambda> at 0x2abacb4d9500>, {'mu': [array([-0.04380161, -0.04001948, -0.03155687, ...,  3.44496637,
+        3.18287443,  3.04222954])], 'kappa': [array([ 0.01001381,  0.00850478,  0.00523533, ..., -0.74895109,
+       -0.75121727, -0.74085686])]})
+Computing search direction
+Computing step length
+ trial step 1
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalfunc/model
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/output/model_0008
+
+Starting iteration 9
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalgrad/model
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalgrad/gradient_nomask
+kernels defaultdict(<function <lambda> at 0x2abacb4eded8>, {'mu': [array([-0.05332025, -0.0491152 , -0.03960978, ...,  2.55266151,
+        2.30428383,  2.17776215])], 'kappa': [array([-0.04103669, -0.03649793, -0.02653738, ...,  1.43995291,
+        1.42660976,  1.40086975])]})
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalgrad/gradient
+kernels defaultdict(<function <lambda> at 0x2abacb4eded8>, {'mu': [array([-0.05332025, -0.0491152 , -0.03960978, ...,  2.55266151,
+        2.30428383,  2.17776215])], 'kappa': [array([ 0.0136789 ,  0.01216598,  0.00884579, ..., -0.47998436,
+       -0.47553664, -0.46695664])]})
+Computing search direction
+Computing step length
+ trial step 1
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalfunc/model
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/output/model_0009
+
+Starting iteration 10
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalgrad/model
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalgrad/gradient_nomask
+kernels defaultdict(<function <lambda> at 0x2abacb4d9f50>, {'mu': [array([-0.05896109, -0.05523261, -0.04670247, ..., -0.97889085,
+       -1.20169726, -1.28638207])], 'kappa': [array([-0.0499912 , -0.04559661, -0.03581562, ..., -1.24381247,
+       -1.25871545, -1.24369642])]})
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalgrad/gradient
+kernels defaultdict(<function <lambda> at 0x2abacb4d9f50>, {'mu': [array([-0.05896109, -0.05523261, -0.04670247, ..., -0.97889085,
+       -1.20169726, -1.28638207])], 'kappa': [array([ 0.01666374,  0.01519887,  0.01193854, ...,  0.41460421,
+        0.41957187,  0.41456552])]})
+Computing search direction
+Computing step length
+ trial step 1
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalfunc/model
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/output/model_0010
+
+Starting iteration 11
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalgrad/model
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalgrad/gradient_nomask
+kernels defaultdict(<function <lambda> at 0x2abacb4eda28>, {'mu': [array([-0.05939587, -0.05594611, -0.04802449, ..., -3.56178258,
+       -3.73657074, -3.77444974])], 'kappa': [array([-0.05239122, -0.0482598 , -0.03903116, ..., -2.93380362,
+       -2.92618225, -2.87425732])]})
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalgrad/gradient
+kernels defaultdict(<function <lambda> at 0x2abacb4eda28>, {'mu': [array([-0.05939587, -0.05594611, -0.04802449, ..., -3.56178258,
+       -3.73657074, -3.77444974])], 'kappa': [array([ 0.01746374,  0.0160866 ,  0.01301039, ...,  0.97793466,
+        0.9753942 ,  0.95808589])]})
+Computing search direction
+Computing step length
+ trial step 1
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalfunc/model
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/output/model_0011
+
+Starting iteration 12
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalgrad/model
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalgrad/gradient_nomask
+kernels defaultdict(<function <lambda> at 0x2abacb4baed8>, {'mu': [array([-0.05153234, -0.04848263, -0.04152241, ..., -4.50816464,
+       -4.65254783, -4.66475773])], 'kappa': [array([-0.04476629, -0.04103836, -0.03275378, ..., -3.38057036,
+       -3.34301738, -3.26963761])]})
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalgrad/gradient
+kernels defaultdict(<function <lambda> at 0x2abacb4baed8>, {'mu': [array([-0.05153234, -0.04848263, -0.04152241, ..., -4.50816464,
+       -4.65254783, -4.66475773])], 'kappa': [array([ 0.0149221 ,  0.01367946,  0.01091793, ...,  1.12685692,
+        1.11433926,  1.08987933])]})
+Computing search direction
+Computing step length
+ trial step 1
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalfunc/model
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/output/model_0012
+
+Starting iteration 13
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalgrad/model
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalgrad/gradient_nomask
+kernels defaultdict(<function <lambda> at 0x2abacb4ba848>, {'mu': [array([-0.04381356, -0.04108234, -0.0348911 , ..., -4.68449306,
+       -4.80171937, -4.7962014 ])], 'kappa': [array([-0.03741121, -0.03411106, -0.0267885 , ..., -3.2570774 ,
+       -3.18961441, -3.10311259])]})
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalgrad/gradient
+kernels defaultdict(<function <lambda> at 0x2abacb4ba848>, {'mu': [array([-0.04381356, -0.04108234, -0.0348911 , ..., -4.68449306,
+       -4.80171937, -4.7962014 ])], 'kappa': [array([ 0.0124704 ,  0.01137035,  0.0089295 , ...,  1.08569259,
+        1.06320493,  1.03437099])]})
+Computing search direction
+Computing step length
+ trial step 1
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalfunc/model
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/output/model_0013
+
+Starting iteration 14
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalgrad/model
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalgrad/gradient_nomask
+kernels defaultdict(<function <lambda> at 0x2abacb4c69b0>, {'mu': [array([-0.02968357, -0.02743476, -0.02244459, ..., -4.13973083,
+       -4.22699816, -4.20907118])], 'kappa': [array([-0.02604115, -0.02386188, -0.01901112, ..., -2.58314714,
+       -2.49786112, -2.41006236])]})
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalgrad/gradient
+kernels defaultdict(<function <lambda> at 0x2abacb4c69b0>, {'mu': [array([-0.02968357, -0.02743476, -0.02244459, ..., -4.13973083,
+       -4.22699816, -4.20907118])], 'kappa': [array([ 0.00868038,  0.00795396,  0.00633704, ...,  0.86104915,
+        0.83262047,  0.80335421])]})
+Computing search direction
+Computing step length
+ trial step 1
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalfunc/model
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+ trial step 2
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalfunc/model
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/output/model_0014
+
+Starting iteration 15
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalgrad/model
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalgrad/gradient_nomask
+kernels defaultdict(<function <lambda> at 0x2abacb4d9050>, {'mu': [array([-0.02920016, -0.0266712 , -0.02113099, ..., -4.24780576,
+       -4.27751182, -4.23243161])], 'kappa': [array([-0.0282517 , -0.02637509, -0.02215086, ..., -2.42204207,
+       -2.33715954, -2.25245814])]})
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalgrad/gradient
+kernels defaultdict(<function <lambda> at 0x2abacb4d9050>, {'mu': [array([-0.02920016, -0.0266712 , -0.02113099, ..., -4.24780576,
+       -4.27751182, -4.23243161])], 'kappa': [array([ 0.00941724,  0.0087917 ,  0.00738362, ...,  0.80734745,
+        0.77905327,  0.75081947])]})
+Computing search direction
+Computing step length
+ trial step 1
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalfunc/model
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/output/model_0015
+
+Starting iteration 16
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalgrad/model
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40Traceback (most recent call last):
+  File "/work/jiangwb/package/seisflows-devel/seisflows/system//wrappers/run", line 41, in <module>
+    func(**kwargs)
+  File "/work/jiangwb/package/seisflows-devel/seisflows/solver/base.py", line 202, in eval_func
+    self.export_residuals(path)
+  File "/work/jiangwb/package/seisflows-devel/seisflows/solver/base.py", line 423, in export_residuals
+    unix.mkdir(join(path, 'residuals'))
+  File "/work/jiangwb/package/seisflows-devel/seisflows/tools/unix.py", line 81, in mkdir
+    os.makedirs(dir)
+  File "/work/jiangwb/package/anaconda2/lib/python2.7/os.py", line 157, in makedirs
+    mkdir(name, mode)
+OSError: [Errno 17] File exists: '/work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalgrad/residuals'
+
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalgrad/gradient_nomask
+kernels defaultdict(<function <lambda> at 0x2abacb4ba2a8>, {'mu': [array([-0.03117072, -0.02820088, -0.02175409, ..., -2.46146112,
+       -2.48191088, -2.45231674])], 'kappa': [array([-0.03363668, -0.03192329, -0.02801893, ..., -1.25266675,
+       -1.20526795, -1.15429202])]})
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalgrad/gradient
+kernels defaultdict(<function <lambda> at 0x2abacb4ba2a8>, {'mu': [array([-0.03117072, -0.02820088, -0.02175409, ..., -2.46146112,
+       -2.48191088, -2.45231674])], 'kappa': [array([ 0.01121223,  0.0106411 ,  0.00933965, ...,  0.41755563,
+        0.40175603,  0.38476405])]})
+Computing search direction
+Computing step length
+ trial step 1
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalfunc/model
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/output/model_0016
+
+Starting iteration 17
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalgrad/model
+Generating synthetics
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+Computing gradient
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalgrad/gradient_nomask
+kernels defaultdict(<function <lambda> at 0x2abacb4c67d0>, {'mu': [array([-0.0318401 , -0.02843259, -0.02111864, ...,  0.81613671,
+        0.78099692,  0.76692138])], 'kappa': [array([-0.03454859, -0.03264704, -0.02840578, ...,  0.74683488,
+        0.7281228 ,  0.71987963])]})
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalgrad/gradient
+kernels defaultdict(<function <lambda> at 0x2abacb4c67d0>, {'mu': [array([-0.0318401 , -0.02843259, -0.02111864, ...,  0.81613671,
+        0.78099692,  0.76692138])], 'kappa': [array([ 0.0115162 ,  0.01088235,  0.00946859, ..., -0.24894499,
+       -0.24270763, -0.2399599 ])]})
+Computing search direction
+Computing step length
+ trial step 1
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalfunc/model
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+ trial step 2
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalfunc/model
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+ trial step 3
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalfunc/model
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+ trial step 4
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalfunc/model
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+ trial step 5
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalfunc/model
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+ trial step 6
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalfunc/model
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+ trial step 7
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalfunc/model
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+ trial step 8
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalfunc/model
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+ trial step 9
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalfunc/model
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+ trial step 10
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalfunc/model
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+ trial step 11
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalfunc/model
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+ Line search failed
+
+ Retrying...
+ trial step 1
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalfunc/model
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+ trial step 2
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalfunc/model
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+ trial step 3
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalfunc/model
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+ trial step 4
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalfunc/model
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+ trial step 5
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalfunc/model
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+ trial step 6
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalfunc/model
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+ trial step 7
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalfunc/model
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+ trial step 8
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalfunc/model
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+ trial step 9
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalfunc/model
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+ trial step 10
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalfunc/model
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+ trial step 11
+path /work/jiangwb/test/seisflows_example_repeat_by_Jiang/2d_Elastic/foothill-GPU/scratch/evalfunc/model
+ task 01 of 40
+ task 02 of 40
+ task 03 of 40
+ task 04 of 40
+ task 05 of 40
+ task 06 of 40
+ task 07 of 40
+ task 08 of 40
+ task 09 of 40
+ task 10 of 40
+ task 11 of 40
+ task 12 of 40
+ task 13 of 40
+ task 14 of 40
+ task 15 of 40
+ task 16 of 40
+ task 17 of 40
+ task 18 of 40
+ task 19 of 40
+ task 20 of 40
+ task 21 of 40
+ task 22 of 40
+ task 23 of 40
+ task 24 of 40
+ task 25 of 40
+ task 26 of 40
+ task 27 of 40
+ task 28 of 40
+ task 29 of 40
+ task 30 of 40
+ task 31 of 40
+ task 32 of 40
+ task 33 of 40
+ task 34 of 40
+ task 35 of 40
+ task 36 of 40
+ task 37 of 40
+ task 38 of 40
+ task 39 of 40
+ task 40 of 40
+
+ Line search failed
+
+ Aborting...
